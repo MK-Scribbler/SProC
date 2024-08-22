@@ -89,7 +89,7 @@ const MultiStepForm = () => {
       <form id="msform">
         {/* Progressbar */}
         <ul id="progressbar">
-          <li className="active">Step 1</li>
+          <li className="active">Steps 1</li>
           <li>Step 2</li>
           <li>Step 3</li>
         </ul>
